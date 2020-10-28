@@ -8,4 +8,4 @@ Para além disso, demonstra o meu progresso na aprendizagem de desenvolvimento w
 
 ## WIP
 
-Este site está em "Work in progress", logo poderá haver falhas ou falta de conteúdo neste.
+Este site está em "Work in progress", logo poderá haver falhas ou falta de conteúdo.
