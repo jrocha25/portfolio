@@ -1,0 +1,28 @@
+        body{
+            background-color: #ecf4f3;
+        }
+
+        hr{
+            border-style: none;
+            border-top-style: dotted;
+            border-color: grey;
+            border-width: 5px;
+            height: 10px;
+            width: 5%;
+        }
+
+        h1{
+            color: #ff7e67;
+        }
+
+        h3{
+            color: #68b0ab;
+        }
+
+        strong{
+            color: #006a71;
+        }
+
+        thead{
+            color: #006a71;
+        }
